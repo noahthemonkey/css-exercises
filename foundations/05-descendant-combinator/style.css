@@ -1,0 +1,6 @@
+div .text {
+    font-size: 20px;
+    background-color: hsl(60, 100%, 50%);
+    text-align: center;
+    color: red;
+}
